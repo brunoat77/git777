@@ -1,0 +1,14 @@
+{"timestamp":4323950,"category":"fog.validation","name":"validate_early_event"}
+{"timestamp":4325191,"category":"webcompatreporting","name":"reason_dropdown","extra":{"setting":"required"}}
+{"timestamp":4330126,"category":"nimbus_events","name":"validation_failed","extra":{"reason":"invalid-feature","feature":"accessibilityCache","experiment":"next-generation-accessibility-engine-powering-screen-readers"}}
+{"timestamp":4330130,"category":"nimbus_events","name":"is_ready"}
+{"timestamp":4333836,"category":"translations.panel","name":"open","extra":{"view_name":"defaultView","flow_id":"8f673983-ccba-4124-a8d1-58b03992595e","auto_show":"true","opened_from":"translationsButton","document_language":"en","first_interaction":"false"}}
+{"timestamp":4334694,"category":"translations.panel","name":"close","extra":{"flow_id":"8f673983-ccba-4124-a8d1-58b03992595e","first_interaction":"false"}}
+{"timestamp":4341258,"category":"serp","name":"impression","extra":{"is_shopping_page":"false","impression_id":"962b4c93-f3bd-4b1c-ae3c-98fb201099d7","is_private":"false","provider":"google","tagged":"true","partner_code":"firefox-b-d","source":"urlbar","shopping_tab_displayed":"false"}}
+{"timestamp":4355937,"category":"serp","name":"engagement","extra":{"target":"non_ads_link","action":"clicked","impression_id":"962b4c93-f3bd-4b1c-ae3c-98fb201099d7"}}
+{"timestamp":4357490,"category":"translations.panel","name":"open","extra":{"document_language":"en","opened_from":"translationsButton","auto_show":"true","first_interaction":"false","view_name":"defaultView","flow_id":"b2e111ad-675a-4ca6-88d2-4347b08eb648"}}
+{"timestamp":4361061,"category":"translations.panel","name":"cancel_button","extra":{"first_interaction":"false","flow_id":"b2e111ad-675a-4ca6-88d2-4347b08eb648"}}
+{"timestamp":4361063,"category":"translations.panel","name":"close","extra":{"first_interaction":"false","flow_id":"b2e111ad-675a-4ca6-88d2-4347b08eb648"}}
+{"timestamp":4399469,"category":"translations.panel","name":"open","extra":{"flow_id":"9d4bb0f0-d212-4f71-8a21-9872601858f9","first_interaction":"false","document_language":"en","auto_show":"true","view_name":"defaultView","opened_from":"translationsButton"}}
+{"timestamp":4401352,"category":"translations.panel","name":"cancel_button","extra":{"flow_id":"9d4bb0f0-d212-4f71-8a21-9872601858f9","first_interaction":"false"}}
+{"timestamp":4401354,"category":"translations.panel","name":"close","extra":{"flow_id":"9d4bb0f0-d212-4f71-8a21-9872601858f9","first_interaction":"false"}}

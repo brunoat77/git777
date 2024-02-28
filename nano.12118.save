@@ -1,0 +1,14 @@
+CREATE DATABASE db2;
+use db2;
+
+CREATE TABLE db_0 (
+	in INT AUTO_INCREMENT PRIMARY KEY,
+	nome VARCHAR(50),
+	idade INT
+);
+
+INSERT INTO db_0 (nome, idade) VALUES ('Joao', 30), ('Maria',25),('Pedro',62);
+SELECT * FROM db_0
+
+UPDATE db_0 SET idade = 35 nome ='Pedro'
+

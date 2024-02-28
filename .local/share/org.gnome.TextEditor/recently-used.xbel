@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xbel version="1.0"
+      xmlns:bookmark="http://www.freedesktop.org/standards/desktop-bookmarks"
+      xmlns:mime="http://www.freedesktop.org/standards/shared-mime-info"
+>
+  <bookmark href="file:///home/atec/Documentos/atec/index.html" added="2024-02-24T21:10:00.726772Z" modified="2024-02-27T11:17:57.822591Z" visited="2024-02-27T11:17:48.592860Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <bookmark:applications>
+          <bookmark:application name="gnome-text-editor" exec="&apos;gnome-text-editor %u&apos;" modified="2024-02-27T11:17:57.822590Z" count="17"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/atec/nano.12118.save" added="2024-02-26T14:31:11.435179Z" modified="2024-02-27T11:17:57.822587Z" visited="2024-02-27T11:17:48.335595Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <bookmark:applications>
+          <bookmark:application name="gnome-text-editor" exec="&apos;gnome-text-editor %u&apos;" modified="2024-02-27T11:17:57.822586Z" count="11"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/atec/key.ppk" added="2024-02-27T10:11:28.805434Z" modified="2024-02-27T11:17:57.822589Z" visited="2024-02-27T11:17:48.806854Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <bookmark:applications>
+          <bookmark:application name="gnome-text-editor" exec="&apos;gnome-text-editor %u&apos;" modified="2024-02-27T11:17:57.822589Z" count="4"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+</xbel>

@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xbel version="1.0"
+      xmlns:bookmark="http://www.freedesktop.org/standards/desktop-bookmarks"
+      xmlns:mime="http://www.freedesktop.org/standards/shared-mime-info"
+>
+  <bookmark href="file:///home/atec/Documentos/adm" added="2024-02-24T19:57:46.046813Z" modified="2024-02-24T19:57:46.046816Z" visited="2024-02-24T19:57:46.046814Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="inode/directory"/>
+        <bookmark:applications>
+          <bookmark:application name="org.gnome.Nautilus" exec="&apos;org.gnome.Nautilus %u&apos;" modified="2024-02-24T19:57:46.046815Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/atec/crontab" added="2024-02-24T21:04:08.750908Z" modified="2024-02-24T21:04:08.750966Z" visited="2024-02-24T21:04:08.750909Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/x-zerosize"/>
+        <bookmark:applications>
+          <bookmark:application name="org.gnome.Nautilus" exec="&apos;gnome-text-editor %U&apos;" modified="2024-02-24T21:04:08.750962Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/atec/atec/index.html" added="2024-02-24T21:04:21.276405Z" modified="2024-02-24T21:08:42.949376Z" visited="2024-02-24T21:04:21.276406Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/html"/>
+        <bookmark:applications>
+          <bookmark:application name="org.gnome.Nautilus" exec="&apos;firefox %u&apos;" modified="2024-02-24T21:08:42.949370Z" count="7"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/atec/Documentos/atec/index.html" added="2024-02-24T21:09:44.068330Z" modified="2024-02-24T21:14:22.772250Z" visited="2024-02-24T21:09:44.068331Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/html"/>
+        <bookmark:applications>
+          <bookmark:application name="org.gnome.Nautilus" exec="&apos;firefox %u&apos;" modified="2024-02-24T21:14:22.772247Z" count="4"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/atec/nano.12118.save" added="2024-02-26T14:30:55.494367Z" modified="2024-02-26T14:30:55.494371Z" visited="2024-02-26T14:30:55.494368Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/plain"/>
+        <bookmark:applications>
+          <bookmark:application name="org.gnome.Nautilus" exec="&apos;gnome-text-editor %U&apos;" modified="2024-02-26T14:30:55.494369Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/atec/key.ppk" added="2024-02-27T10:11:25.388766Z" modified="2024-02-27T11:17:47.410116Z" visited="2024-02-27T10:11:25.388767Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/plain"/>
+        <bookmark:applications>
+          <bookmark:application name="gnome-text-editor" exec="&apos;gnome-text-editor %u&apos;" modified="2024-02-27T10:11:25.388769Z" count="1"/>
+          <bookmark:application name="org.gnome.Nautilus" exec="&apos;gnome-text-editor %U&apos;" modified="2024-02-27T11:17:47.410114Z" count="3"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+</xbel>
